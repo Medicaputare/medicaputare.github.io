@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Resources & Insights | Medicaputare</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/assets/icons/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/assets/icons/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/assets/icons/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- Register Header Component -->
+  <script src="/assets/js/components/header.js" type="module"></script>
+</head>
+
+<body>
+  <!-- Custom Web Component -->
+  <main-header></main-header>
+
+  <!-- Resources Hero -->
+  <section id="resources" class="hero-section">
+    <div class="hero-bg" style="background-image: url('/assets/images/infographic-medical-with-photo.jpg')";></div>
+    <div class="relative z-10 text-center px-4 flex flex-col items-center">
+      <h1 class="section-header">Resources & Insights</h1>
+      <h2 class="text-lg text-gray-700">Explore our latest articles on precision medicine, AI in pharmacology, and healthcare innovation.</h2>
+    </div>
+  </section>
+
+  <!-- Resources Grid -->
+  <section id="resources" class="py-20 px-6">
+    <div class="container mx-auto">
+      <div class="resources-grid">
+        <!-- Placeholder Blog Post 1 -->
+        <div class="resources-insight-card">
+          <a href="/articles/pharmacogenomics-personalised-medicine/index.html" class="text-wrapper-link">
+            <h3 class="resources-insight-card-header">The Role of Pharmacogenomics in Personalized Medicine</h3>
+          </a>
+          <p class="resources-insights-description">Explore how understanding an individual's genetic makeup can revolutionize drug therapy and improve patient outcomes.</p>
+          <a href="/articles/pharmacogenomics-personalised-medicine/index.html" class="resources-insights-read-more">Read More &rarr;</a>
+        </div>  
+
+        <!-- Placeholder Blog Post 2 -->
+        <div class="resources-insight-card">
+          <a href="/articles/ai-therapeutic-drug-monitoring/index.html" class="text-wrapper-link">
+            <h3 class="resources-insight-card-header">AI in Therapeutic Drug Monitoring: Opportunities & Challenges</h3>
+          </a>
+          <p>Dive into the advancements of AI in optimizing drug dosages and ensuring patient safety through TDM.</p>
+          <a href="/articles/ai-therapeutic-drug-monitoring/index.html" class="resources-insights-read-more">Read More &rarr;</a>
+        </div>
+    
+        <!-- Placeholder Blog Post 3 -->
+        <div class="resources-insight-card">
+          <a href="/articles/trends-precision-medicine-south-africa/index.html" class="text-wrapper-link">
+            <h3 class="resources-insight-card-header">Trends in Precision Medicine: South Africa’s Healthcare Landscape</h3>
+          </a>
+          <p class="resources-insights-description">An overview of how precision medicine is evolving and its specific implications for diverse populations in South Africa.</p>
+          <a href="/articles/trends-precision-medicine-south-africa/index.html" class="resources-insights-read-more">Read More &rarr;</a>
+        </div>
+
+        <!-- Placeholder Blog Post 4 -->
+        <div class="resources-insight-card">
+          <a href="/articles/embracing-cdss-resource-constraints/index.html" class="text-wrapper-link">
+            <h3 class="resources-insight-card-header">Embracing Clinical Decision Support Systems in resource-constrained settings</h3>
+          </a>
+          <p class="resources-insights-description">Learn how to harness the power of clinical decision systems to optimize healthcare delivery and patient outcomes.</p>
+          <a href="/articles/embracing-cdss-resource-constraints/index.html" class="resources-insights-read-more">Read More &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <div id="footer-placeholder"></div>
+  <script src="/js/load-footer.js"></script>
+
+  <script src="/js/main.js"></script>
+
+</body>
+</html>

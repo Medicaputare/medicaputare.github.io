@@ -1,2 +1,0 @@
-# medicaputare.github.io
-Website

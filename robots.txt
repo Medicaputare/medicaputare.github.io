@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Medicaputare/medicaputare.github.io/sitemap.xml

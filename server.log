@@ -1,0 +1,17 @@
+nohup: ignoring input
+Serving HTTP on 0.0.0.0 port 54116 (http://0.0.0.0:54116/) ...
+127.0.0.1 - - [20/Oct/2025 13:10:40] code 404, message File not found
+127.0.0.1 - - [20/Oct/2025 13:10:40] "GET /medicaputare/index.html HTTP/1.1" 404 -
+127.0.0.1 - - [20/Oct/2025 13:10:51] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [20/Oct/2025 13:10:51] "GET /assets/medicaputare_grey_white_bg.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Oct/2025 13:10:51] "GET /js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [20/Oct/2025 13:11:10] "GET /index.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:11:27] "GET /products.html HTTP/1.1" 200 -
+127.0.0.1 - - [20/Oct/2025 13:11:37] "GET /index.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:11:51] "GET /products.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:12:00] "GET /index.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:12:17] "GET /products.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:12:33] "GET /index.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:12:53] "GET /products.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:13:00] "GET /index.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Oct/2025 13:13:23] "GET /index.html HTTP/1.1" 304 -
