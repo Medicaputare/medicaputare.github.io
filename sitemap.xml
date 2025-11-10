@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://Medicaputare/medicaputare.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://medicaputare.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/</loc>
+<loc>https://medicaputare.github.io/</loc>
 </url>
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/articles/ai-therapeutic-drug-monitoring/</loc>
+<loc>https://medicaputare.github.io/articles/ai-therapeutic-drug-monitoring/</loc>
 </url>
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/articles/embracing-cdss-resource-constraints/</loc>
+<loc>https://medicaputare.github.io/articles/embracing-cdss-resource-constraints/</loc>
 </url>
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/articles/pharmacogenomics-personalised-medicine/</loc>
+<loc>https://medicaputare.github.io/articles/pharmacogenomics-personalised-medicine/</loc>
 </url>
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/articles/trends-precision-medicine-south-africa/</loc>
+<loc>https://medicaputare.github.io/articles/trends-precision-medicine-south-africa/</loc>
 </url>
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/authors/medicaputare/</loc>
+<loc>https://medicaputare.github.io/authors/medicaputare/</loc>
 </url>
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/authors/rephaim-mpofu/</loc>
+<loc>https://medicaputare.github.io/authors/rephaim-mpofu/</loc>
 </url>
 <url>
-<loc>https://Medicaputare/medicaputare.github.io/products/</loc>
+<loc>https://medicaputare.github.io/products/</loc>
 </url>
 </urlset>

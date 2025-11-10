@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Medicaputare</title>
-    <link href="https://Medicaputare/medicaputare.github.io/feed.xml" rel="self" />
-    <link href="https://Medicaputare/medicaputare.github.io" />
+    <link href="https://medicaputare.github.io/feed.xml" rel="self" />
+    <link href="https://medicaputare.github.io" />
     <updated>2025-11-10T18:07:22+02:00</updated>
     <author>
         <name>Medicaputare</name>
     </author>
-    <id>https://Medicaputare/medicaputare.github.io</id>
+    <id>https://medicaputare.github.io</id>
 
     <entry>
         <title>AI in Therapeutic Drug Monitoring: Opportunities &amp; Challenges</title>
         <author>
             <name>Rephaim Mpofu</name>
         </author>
-        <link href="https://Medicaputare/medicaputare.github.io/articles/ai-therapeutic-drug-monitoring/"/>
-        <id>https://Medicaputare/medicaputare.github.io/articles/ai-therapeutic-drug-monitoring/</id>
-        <media:content url="https://Medicaputare/medicaputare.github.io/media/posts/5/front-view-doctor-holding-vial.jpg" medium="image" />
+        <link href="https://medicaputare.github.io/articles/ai-therapeutic-drug-monitoring/"/>
+        <id>https://medicaputare.github.io/articles/ai-therapeutic-drug-monitoring/</id>
+        <media:content url="https://medicaputare.github.io/media/posts/5/front-view-doctor-holding-vial.jpg" medium="image" />
             <category term="Therapeutic Drug Monitoring"/>
             <category term="Precision Medicine"/>
             <category term="Pharmacokinetics"/>
@@ -27,13 +27,13 @@
         <updated>2025-11-10T09:59:21+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Medicaputare/medicaputare.github.io/media/posts/5/front-view-doctor-holding-vial.jpg" alt="" />
+                        <img src="https://medicaputare.github.io/media/posts/5/front-view-doctor-holding-vial.jpg" alt="" />
                     Understanding Therapeutic Drug Monitoring Therapeutic Drug Monitoring (TDM) is the clinical practice of measuring specific drug concentrations in a patient’s blood to maintain a therapeutic range that maximizes efficacy and minimizes toxicity. It is especially critical for medications with narrow therapeutic indices, variable pharmacokinetics, or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Medicaputare/medicaputare.github.io/media/posts/5/front-view-doctor-holding-vial.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://medicaputare.github.io/media/posts/5/front-view-doctor-holding-vial.jpg" class="type:primaryImage" alt="" /></p>
                 <h2>Understanding Therapeutic Drug Monitoring</h2>
 <p>Therapeutic Drug Monitoring (TDM) is the clinical practice of measuring specific drug concentrations in a patient’s blood to maintain a therapeutic range that maximizes efficacy and minimizes toxicity. It is especially critical for medications with narrow therapeutic indices, variable pharmacokinetics, or serious toxicity potential.<br><br>Traditionally, TDM has relied on pharmacokinetic (PK) models and manual interpretation by clinical pharmacologists or pharmacists. However, the increasing availability of electronic health data, coupled with advances in artificial intelligence (AI) and machine learning (ML), is transforming how we approach dosing and drug monitoring.</p>
 <h2>The Role of AI and Machine Learning</h2>
@@ -70,9 +70,9 @@
         <author>
             <name>Medicaputare</name>
         </author>
-        <link href="https://Medicaputare/medicaputare.github.io/articles/pharmacogenomics-personalised-medicine/"/>
-        <id>https://Medicaputare/medicaputare.github.io/articles/pharmacogenomics-personalised-medicine/</id>
-        <media:content url="https://Medicaputare/medicaputare.github.io/media/posts/4/technology-integrated-everyday-life.jpg" medium="image" />
+        <link href="https://medicaputare.github.io/articles/pharmacogenomics-personalised-medicine/"/>
+        <id>https://medicaputare.github.io/articles/pharmacogenomics-personalised-medicine/</id>
+        <media:content url="https://medicaputare.github.io/media/posts/4/technology-integrated-everyday-life.jpg" medium="image" />
             <category term="Precision Medicine"/>
             <category term="Pharmacogenomics"/>
             <category term="Clinical Pharmacology"/>
@@ -80,13 +80,13 @@
         <updated>2025-11-07T10:18:14+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Medicaputare/medicaputare.github.io/media/posts/4/technology-integrated-everyday-life.jpg" alt="" />
+                        <img src="https://medicaputare.github.io/media/posts/4/technology-integrated-everyday-life.jpg" alt="" />
                     Understanding Pharmacogenomics Pharmacogenomics (PGx) is the study of how genetic variations influence an individual’s response to medications. It combines pharmacology — the science of drugs — with genomics, which explores the structure and function of genes across the entire genome. By understanding how specific genetic&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Medicaputare/medicaputare.github.io/media/posts/4/technology-integrated-everyday-life.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://medicaputare.github.io/media/posts/4/technology-integrated-everyday-life.jpg" class="type:primaryImage" alt="" /></p>
                 <h2>Understanding Pharmacogenomics</h2>
 <p>Pharmacogenomics (PGx) is the study of how genetic variations influence an individual’s response to medications. It combines pharmacology — the science of drugs — with genomics, which explores the structure and function of genes across the entire genome.</p>
 <p> By understanding how specific genetic differences affect drug metabolism, efficacy, and toxicity, clinicians can make informed decisions that improve treatment safety and effectiveness. Instead of a “one-size-fits-all” approach, therapy becomes genuinely personalized.</p>
@@ -117,9 +117,9 @@
         <author>
             <name>Rephaim Mpofu</name>
         </author>
-        <link href="https://Medicaputare/medicaputare.github.io/articles/embracing-cdss-resource-constraints/"/>
-        <id>https://Medicaputare/medicaputare.github.io/articles/embracing-cdss-resource-constraints/</id>
-        <media:content url="https://Medicaputare/medicaputare.github.io/media/posts/3/diagnose-doctor-medicine-health-wellness-concept.jpg" medium="image" />
+        <link href="https://medicaputare.github.io/articles/embracing-cdss-resource-constraints/"/>
+        <id>https://medicaputare.github.io/articles/embracing-cdss-resource-constraints/</id>
+        <media:content url="https://medicaputare.github.io/media/posts/3/diagnose-doctor-medicine-health-wellness-concept.jpg" medium="image" />
             <category term="Precision Medicine"/>
             <category term="Health Informatics"/>
             <category term="Digital Health"/>
@@ -129,13 +129,13 @@
         <updated>2025-11-07T09:20:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Medicaputare/medicaputare.github.io/media/posts/3/diagnose-doctor-medicine-health-wellness-concept.jpg" alt="" />
+                        <img src="https://medicaputare.github.io/media/posts/3/diagnose-doctor-medicine-health-wellness-concept.jpg" alt="" />
                     Understanding Clinical Decision Support Systems Clinical Decision Support (CDS) systems are transforming the way healthcare professionals diagnose, treat, and monitor patients — particularly in resource-constrained environments. These intelligent tools combine medical knowledge, patient data, and algorithmic reasoning to assist clinicians in making evidence-based decisions at the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Medicaputare/medicaputare.github.io/media/posts/3/diagnose-doctor-medicine-health-wellness-concept.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://medicaputare.github.io/media/posts/3/diagnose-doctor-medicine-health-wellness-concept.jpg" class="type:primaryImage" alt="" /></p>
                 <h2>Understanding Clinical Decision Support Systems</h2>
 <p><strong>Clinical Decision Support (CDS) systems</strong> are transforming the way healthcare professionals diagnose, treat, and monitor patients — particularly in resource-constrained environments. These intelligent tools combine medical knowledge, patient data, and algorithmic reasoning to assist clinicians in making evidence-based decisions at the point of care. For settings where specialist expertise is limited, CDS offers a scalable pathway to better outcomes and more consistent standards of care.<br><br>CDS refers to digital platforms and applications that provide clinicians with context-specific knowledge and recommendations. They can range from simple risk calculators and drug–drug interaction alerts to advanced AI-driven models that predict adverse drug reactions or guide antibiotic dosing. By integrating with electronic health records (EHRs), CDS systems enhance clinical workflow efficiency while supporting decisions aligned with best-practice guidelines.</p>
 <h2>Recent Advances in Access and Technology</h2>
@@ -157,9 +157,9 @@
         <author>
             <name>Medicaputare</name>
         </author>
-        <link href="https://Medicaputare/medicaputare.github.io/articles/trends-precision-medicine-south-africa/"/>
-        <id>https://Medicaputare/medicaputare.github.io/articles/trends-precision-medicine-south-africa/</id>
-        <media:content url="https://Medicaputare/medicaputare.github.io/media/posts/2/doctor-touching-modern-virtual-screen-interface-medical-technology.jpg" medium="image" />
+        <link href="https://medicaputare.github.io/articles/trends-precision-medicine-south-africa/"/>
+        <id>https://medicaputare.github.io/articles/trends-precision-medicine-south-africa/</id>
+        <media:content url="https://medicaputare.github.io/media/posts/2/doctor-touching-modern-virtual-screen-interface-medical-technology.jpg" medium="image" />
             <category term="South Africa"/>
             <category term="Precision Medicine"/>
             <category term="Pharmacogenomics"/>
@@ -168,13 +168,13 @@
         <updated>2025-11-07T08:53:20+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Medicaputare/medicaputare.github.io/media/posts/2/doctor-touching-modern-virtual-screen-interface-medical-technology.jpg" alt="A doctor touching a modern virtual screen interface" />
+                        <img src="https://medicaputare.github.io/media/posts/2/doctor-touching-modern-virtual-screen-interface-medical-technology.jpg" alt="A doctor touching a modern virtual screen interface" />
                     Trends in Precision Medicine in South Africa South Africa is emerging as a leader in precision medicine on the African continent, driven by advances in genomic technologies and growing investment in related healthcare infrastructure. The healthcare landscape is evolving towards more personalized, genomics-informed approaches that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Medicaputare/medicaputare.github.io/media/posts/2/doctor-touching-modern-virtual-screen-interface-medical-technology.jpg" class="type:primaryImage" alt="A doctor touching a modern virtual screen interface" /></p>
+                    <p><img src="https://medicaputare.github.io/media/posts/2/doctor-touching-modern-virtual-screen-interface-medical-technology.jpg" class="type:primaryImage" alt="A doctor touching a modern virtual screen interface" /></p>
                 <h2>Trends in Precision Medicine in South Africa</h2>
 <p>South Africa is emerging as a leader in precision medicine on the African continent, driven by advances in genomic technologies and growing investment in related healthcare infrastructure. The healthcare landscape is evolving towards more personalized, genomics-informed approaches that tailor diagnosis and treatment to individual genetic profiles, particularly benefiting diverse local populations.</p>
 <h2>Genomic Advances and the Precision Medicine Ecosystem</h2>
