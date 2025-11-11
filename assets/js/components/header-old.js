@@ -8,11 +8,11 @@ class MainHeader extends HTMLElement {
                 alt="Medicaputare Logo" class="logo-icon">
             <span class="logo-text logo-text-gradient">Medicaputare</span>
           </a>
-          <div class="hamburger">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
+        </div>
+        <div class="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
         </div>
         <div class="nav-links">
           <a href="/index.html">Home</a>
